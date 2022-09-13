@@ -60,16 +60,20 @@ img {
     font-weight: bolder;
     font-size: 30px;
     text-align: center;
-    padding: 13px;
+    padding: 12px;
     width: 40%;
+    height: 100%;
     background-color: black;
-    border-radius: 100px 0px 0px 100px;
+    border-radius: 100px;
 }
 
 p {
     background-color: black;
+    color: #003b6f;
     padding: 12px;
-    border-radius: 0px 100px 100px 0px;
+    height: 100%;
+    border-radius: 20px;
+    text-align: center;
 }
 
 .about-me {
@@ -86,7 +90,7 @@ figcaption {
     margin-top: 0%;
     align-items: center;
     text-align: center;
-    border-radius: 20px;
+    border-radius: 100px;
     width: 95%;
 }
 
@@ -107,3 +111,8 @@ a {
     text-decoration: none;
     font-size: larger;
 }
+/* SMALL */
+@media screen and (min-width: 730px) {
+    //CSS rules;
+}
+    

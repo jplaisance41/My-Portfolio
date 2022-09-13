@@ -6,8 +6,15 @@ This is a work-in-progress landing page/portfolio.
 
 ## Change Log
 
-*Update 1
-1) Initial creation and deployment of the application
+*Update 1:
+-Initial creation and deployment of the application
+
+*Update 2:
+-Cleaned up redundant code.
+
+*Update 3:
+-Moved files to assets folder
+-Fixed Links
 
 ## What I learned
 
